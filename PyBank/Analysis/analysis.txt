@@ -1,0 +1,7 @@
+
+Financial Analysis
+Total months: 86
+Net total: $22564198
+Average change: $4448.127906976744
+Greatest increase: Aug-16 ($1862002)
+Greatest decrease: Feb-14 ($-1825558)
